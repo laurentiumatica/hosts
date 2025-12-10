@@ -18,3 +18,4 @@ do
         check_ip "$hostname" "$ip" "$DEFAULT_DNS"
     fi
 done
+echo "Salut Laurentiu!"
